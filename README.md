@@ -20,7 +20,7 @@ Construir uma Landing Page com HTML e CSS, colocando em prática os fundamentos 
  [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=&link=https://github.com/martageraldo)](https://github.com/martageraldo)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=social-square&logo=Codepen&logoColor=white&link=https://codepen.io/martageraldo)](https://codepen.io/martageraldo)
 [![card Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=social-square&logo=protonmail&logoColor=white)](mailto:mggeraldo@protonmail.com) 
-[![Netlify Badge](https://img.shields.io/badge/netlify-%23000000.svg?style=social-square&logo=netlify&logoColor=#00C7B7)](https://martageraldo.netlify.app/)
+
 
 <br>
 
