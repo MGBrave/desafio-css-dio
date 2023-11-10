@@ -12,6 +12,7 @@ Construir uma Landing Page com HTML e CSS, colocando em prática os fundamentos 
           
 
 <img src="https://github.com/MGBrave/desafio-css-dio/blob/main/desafio-01-css/images/landingpage.png?raw=true" width="400" /> 
+Protótipo: Professora Michele Ambrosio
 
 
 ## <img src="https://user-images.githubusercontent.com/60014891/168324047-c0ccd0c7-3a0e-45c1-98a1-50ca64b82012.png" alt="phone" width="40"/> Contato: 
